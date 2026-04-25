@@ -1,5 +1,11 @@
 # ai-launch-team
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![5 agents](https://img.shields.io/badge/agents-5-blue.svg)](./agents)
+[![11 templates](https://img.shields.io/badge/templates-11-blue.svg)](./templates)
+[![3 playbooks](https://img.shields.io/badge/playbooks-3-blue.svg)](./playbooks)
+[![paired with](https://img.shields.io/badge/paired%20with-ai--auto--improve--app-purple.svg)](https://github.com/sean-sunagaku/ai-auto-improve-app)
+
 OSS / SaaS / MCP プロダクトの launch（公開・配信・宣伝）を Agent Team で再現可能にする最小ループ。
 
 `ai-auto-improve-app` がプロダクトを **作って磨く**ループ、こちらが **公開して届ける**ループ。
